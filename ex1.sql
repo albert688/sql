@@ -1,0 +1,1 @@
+select  count(*) from usairlineflights5.flights
